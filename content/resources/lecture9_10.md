@@ -7,6 +7,7 @@ description: 'Lecture notes covering the following topics: The Multi-Commitment 
   Two-Party, Multi-Party.)'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-897-selected-topics-in-cryptography-spring-2004/054e4a5552a39239b46a1e5a5c09cf13_lecture9_10.pdf
 file_type: application/pdf
+parent_uid: 85685e0a-ca08-3206-297c-5c104a971d9f
 resourcetype: Document
 title: lecture9_10.pdf
 uid: 054e4a55-52a3-9239-b46a-1e5a5c09cf13

@@ -7,6 +7,7 @@ description: 'Lecture notes covering the following topics: Secure Realization of
   [GMRi88]). Usage for Certification and Authentication.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-897-selected-topics-in-cryptography-spring-2004/6aa50cb7e6aeef47b490d1174ad544a9_lecture11_12.pdf
 file_type: application/pdf
+parent_uid: 85685e0a-ca08-3206-297c-5c104a971d9f
 resourcetype: Document
 title: lecture11_12.pdf
 uid: 6aa50cb7-e6ae-ef47-b490-d1174ad544a9
